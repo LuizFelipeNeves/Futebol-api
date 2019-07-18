@@ -1,0 +1,17 @@
+{
+  "name": "futebol-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/api.js"
+  },
+  "keywords": [],
+  "author": "Luiz Felipe Neves <luizfelipe2310@gmail.com> (https://github.com/LuizFelipeNeves)",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4"
+  }
+}
