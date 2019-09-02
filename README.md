@@ -13,7 +13,7 @@ simple crawler for the matches list of Brazilian soccer teams.
     ```
         $ npm start
     ```
-  Visit: `http://localhost:3000/framengo`
+  Visit: `http://localhost:3000/flamengo`
 
 ## API Methods
    | Method | Endpoint                       | Parameters       | Description                                                                                     
